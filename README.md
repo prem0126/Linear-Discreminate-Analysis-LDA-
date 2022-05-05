@@ -1,1 +1,1 @@
-# Linear-Discreminate-Analysis-LDA-
+# Linear Discriminant Analysis(LDA)
